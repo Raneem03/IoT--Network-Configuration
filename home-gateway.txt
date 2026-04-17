@@ -1,0 +1,18 @@
+! Home Gateway Configuration
+
+! =========================
+! WIRELESS SETTINGS
+! =========================
+SSID: IoE_Home_Network
+Security: WPA2-PSK
+Password: 12345678
+
+! =========================
+! IP SETTINGS
+! =========================
+IP Assignment: DHCP (Automatic)
+
+! =========================
+! DHCP STATUS
+! =========================
+DHCP: Enabled
